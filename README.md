@@ -90,7 +90,6 @@ print("For population = 70,000,we predict a profit of $"+str(round(predict2,0)))
 ## Output:
 ### Profit Prediction Graph
 ![image](https://github.com/VinithaNaidu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121166004/6b78bc3f-c31e-4ad2-a8db-0a31b189a85d)
-![image](https://github.com/VinithaNaidu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121166004/bbce1f7e-dcf5-4dbd-b387-4c261551e2d5)
 
 ### Compute Cost Value
 ![image](https://github.com/VinithaNaidu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121166004/722dc497-74dc-48d7-9e37-6a5d25249df1)
@@ -101,10 +100,10 @@ print("For population = 70,000,we predict a profit of $"+str(round(predict2,0)))
 
 
 ### Cost function using Gradient Descent Graph
-
+![image](https://github.com/VinithaNaidu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121166004/33048b97-a244-41b3-b41c-c4fc5daface5)
 
 ### Profit Prediction Graph
-![image](https://github.com/VinithaNaidu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121166004/33048b97-a244-41b3-b41c-c4fc5daface5)
+![image](https://github.com/VinithaNaidu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121166004/bbce1f7e-dcf5-4dbd-b387-4c261551e2d5)
 
 ### Profit for the Population 35,000
 ![image](https://github.com/VinithaNaidu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121166004/e8abb537-7215-4686-8145-7b1c63cbc42d)
