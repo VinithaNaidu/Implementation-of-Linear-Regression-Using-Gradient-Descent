@@ -16,7 +16,7 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Program:
 ```
-/*
+
 Program to implement the linear regression using gradient descent.
 Developed by: D.Vinitha Naidu
 RegisterNumber:  212222230175
@@ -84,12 +84,33 @@ print("For population = 35,000 ,we predict a profit of $"+str(round(predict1,0))
 
 predict2=predict(np.array([1,7]),theta)*10000
 print("For population = 70,000,we predict a profit of $"+str(round(predict2,0)))
-*/
+
 
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+### Profit Prediction Graph
+![image](https://github.com/VinithaNaidu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121166004/6b78bc3f-c31e-4ad2-a8db-0a31b189a85d)
+![image](https://github.com/VinithaNaidu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121166004/bbce1f7e-dcf5-4dbd-b387-4c261551e2d5)
 
+### Compute Cost Value
+![image](https://github.com/VinithaNaidu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121166004/722dc497-74dc-48d7-9e37-6a5d25249df1)
+
+
+### h(x) value
+![image](https://github.com/VinithaNaidu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121166004/5d8e78a6-04fe-4ea7-8827-bb5cc3e0a8e5)
+
+
+### Cost function using Gradient Descent Graph
+
+
+### Profit Prediction Graph
+![image](https://github.com/VinithaNaidu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121166004/33048b97-a244-41b3-b41c-c4fc5daface5)
+
+### Profit for the Population 35,000
+![image](https://github.com/VinithaNaidu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121166004/e8abb537-7215-4686-8145-7b1c63cbc42d)
+
+### Profit for the Population 70,000
+![image](https://github.com/VinithaNaidu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121166004/097530d1-a526-413c-8f5b-97986faa3b7f)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
